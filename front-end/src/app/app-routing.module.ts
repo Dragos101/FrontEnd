@@ -51,7 +51,7 @@ const routes: Routes = [
     component: BlogDetailsComponent
   },
   {
-    path:'login',
+    path: 'login',
     component: LoginComponent
   }
 ];
